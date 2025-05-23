@@ -47,10 +47,10 @@ if page == "About Me":
     with col2:
         st.header("About Me")
         st.write("""
-        Hi! I'm [Your Name], a passionate data scientist and machine learning enthusiast.
+        Hi! I'm Md Shahadat Kabir, a passionate data scientist and machine learning enthusiast.
         I specialize in computer vision and have experience with state-of-the-art models like YOLO.
         This portfolio showcases my project using YOLOv11 for object detection, built with Streamlit.
-        Connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or check out my [GitHub](https://github.com/your-username).
+        Connect with me on [LinkedIn](https://www.linkedin.com/in/shahadatkabir25/) or check out my [GitHub](https://github.com/ShahadatKabir).
         """)
 
 # YOLO Project Description
